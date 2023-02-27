@@ -1,0 +1,23 @@
+.textarea-container {
+    margin-top: 40px;
+    padding: 0 150px;
+    text-align: justify;
+}
+
+.textarea-container textarea {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.send {
+    margin-top: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+.send a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px 50px;
+}
